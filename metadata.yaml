@@ -1,0 +1,52 @@
+_repo: Machiavelli-Volume-I_15772
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Cust, Henry John Cockayne
+    birthdate: 1861
+    deathdate: 1917
+    gutenberg_agent_id: '26464'
+    url: http://www.gutenberg.org/2009/agents/26464
+  translators:
+  - agent_name: Dacres, Edward
+    gutenberg_agent_id: '6278'
+    url: http://www.gutenberg.org/2009/agents/6278
+  - agent_name: Whitehorne, Peter
+    alias: Whithorne, Peter
+    gutenberg_agent_id: '6277'
+    url: http://www.gutenberg.org/2009/agents/6277
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machiavelli, Niccolò
+    alias: Machiavelli, Niccolo
+    birthdate: 1469
+    deathdate: 1527
+    gutenberg_agent_id: '563'
+    url: http://www.gutenberg.org/2009/agents/563
+    wikipedia: http://en.wikipedia.org/wiki/Niccolò_Machiavelli
+description: 'Contains: "The Arte of Warre" translated by Peter Whitehorne, (1560),
+  and "The Prince, E.D. with Some Animadversions Noting and Taxing his Errors" translated
+  by Edward Dacres (1640).'
+gutenberg_issued: '2005-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15772'
+language: en
+publication_note: 'London :  David Nutt,  1905'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military art and science -- Early works to 1800'
+- !lcsh 'Florence (Italy) -- History'
+- !lcsh 'Political science -- Early works to 1800'
+- !lcc 'U'
+- !lcc 'JC'
+- !lcsh 'Political ethics'
+- !lcsh 'War -- Early works to 1800'
+tableOfContents: "The Art of War\r\nThe Prince."
+title: Machiavelli, Volume I
+url: http://www.gutenberg.org/ebooks/15772
