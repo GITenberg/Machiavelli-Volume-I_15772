@@ -30,6 +30,8 @@ creator:
 description: 'Contains: "The Arte of Warre" translated by Peter Whitehorne, (1560),
   and "The Prince, E.D. with Some Animadversions Noting and Taxing his Errors" translated
   by Edward Dacres (1640).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15772#Machiavelli-Volume-I
 gutenberg_issued: '2005-05-06'
 gutenberg_type: Text
 identifiers:
